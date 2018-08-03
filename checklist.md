@@ -34,8 +34,8 @@ Getting the server set up.
 [ ] - Create `server/server.js`
 [ ] - Understand `server/server.js`
 
-[ ] - Create `server/constants/warnings.js`
-[ ] - Understand `server/constants/warnings.js`
+[X] - Create `server/constants/warnings.js`
+[X] - Understand `server/constants/warnings.js`
 
 [ ] - Create `server/modules/authentication-middleware.js`
 [ ] - Understand `server/modules/authentication-middleware.js`
