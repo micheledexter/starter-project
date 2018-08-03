@@ -43,6 +43,8 @@ Getting the server set up.
 [ ] - Understand `server/modules/encryption.js`
 [ ] - Create `server/modules/pool.js`
 [ ] - Understand `server/modules/pool.js`
+[X] - Create `server/modules/session-middleware.js`
+[ ] - Understand `server/modules/session-middleware.js`
 
 [ ] - Create `server/routes/template.router.js`
 [ ] - Understand `server/routes/template.router.js`
