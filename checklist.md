@@ -39,7 +39,7 @@ Getting the server set up.
 
 [ ] - Create `server/modules/authentication-middleware.js`
 [ ] - Understand `server/modules/authentication-middleware.js`
-[ ] - Create `server/modules/encryption.js`
+[X] - Create `server/modules/encryption.js`
 [ ] - Understand `server/modules/encryption.js`
 [ ] - Create `server/modules/pool.js`
 [ ] - Understand `server/modules/pool.js`
